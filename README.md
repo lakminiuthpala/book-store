@@ -13,6 +13,5 @@ Php varsion 8
 3. Run migrations ( command -  php artisan migrate)
 4. Run Seeders ( command - php artisan db:seed)
 5. run "php artisan serve" command to open the project
-6. to login dashborad use below credentials
-username: test@test.lk
-password: 12345678
+6. register to login to the dashboard
+

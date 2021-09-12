@@ -53,11 +53,11 @@
                         </li>
                         @endif
 
-                        <!-- @if (Route::has('register'))
+                        @if (Route::has('register'))
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('register') }}">{{ __('Register') }}</a> 
                         </li>
-                        @endif -->
+                        @endif
 
                         <a href="{{ route('cart.list') }}" class="flex items-center">
                             <svg class="w-5 h-5" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor">
